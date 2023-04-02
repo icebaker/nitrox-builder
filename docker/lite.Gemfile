@@ -4,7 +4,7 @@ ruby '3.2.1'
 
 source 'https://rubygems.org'
 
-gem 'lighstorm', '~> 0.0.15'
+gem 'lighstorm', '~> 0.0.16'
 # gem 'lighstorm', path: '../../../lighstorm'
 gem 'nitrox-core', path: '../../nitrox-core'
 
